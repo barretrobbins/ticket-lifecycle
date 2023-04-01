@@ -43,7 +43,7 @@ Intake of tickets that have been created and issues ready to be resolved.
 <img src="https://i.imgur.com/zvNzOaP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Ticket #282733 has been assigned to Jane Doe and she has updated the severity to "emergency". This ticket has an SLA of 1 hour according to the priority level "SEV A" that Jane Doe assigned the ticket.
 </p>
 <br />
 
@@ -51,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/EKjRon6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Ticket #282733 has been assigned to Jane Doe and she has updated the severity to "emergency". This ticket has an SLA of 1 hour according to the priority level "SEV A" that Jane Doe assigned the ticket.
+Karen is coordinating with the Systems admin team to get banking back online and solve the issue.
 </p>
 <br />
 
@@ -59,5 +59,7 @@ Ticket #282733 has been assigned to Jane Doe and she has updated the severity to
 <img src="https://i.imgur.com/08o0pIj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Karen reported that Larry from Systems Engineering team found a solution to the problem.
+</p>
+<br />
   
