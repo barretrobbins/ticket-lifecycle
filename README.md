@@ -22,22 +22,23 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+1 - Intake
+2 - Assignment and Communication
+3 - Working the Issue
+4 - Resolution
 
 <h2>Lifecycle Stages</h2>
 
+1 - Intake
 <p>
-<img src="https://i.imgur.com/VIQpWdt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/R7RvjGi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/anQnyR8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Intake of tickets that have been created and issues ready to be resolved.
 </p>
 <br />
 
+2 - Assignment and Communication
 <p>
 <img src="https://i.imgur.com/1GlDv94.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/zvNzOaP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -47,14 +48,16 @@ Ticket #282733 has been assigned to Jane Doe and she has updated the severity to
 </p>
 <br />
 
+3 - Working the Issue
 <p>
-<img src="https://i.imgur.com/EKjRon6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nIdNSIB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Karen is coordinating with the Systems admin team to get banking back online and solve the issue.
 </p>
 <br />
 
+4 - Resolution
 <p>
 <img src="https://i.imgur.com/08o0pIj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
