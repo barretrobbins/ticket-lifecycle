@@ -44,7 +44,7 @@ Intake of tickets that have been created and issues ready to be resolved.
 2 - Assignment and Communication
 <p>
 <img src="https://i.imgur.com/1GlDv94.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/zvNzOaP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yGq3cfo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Ticket #165648 has been assigned to Jane Doe and she has updated the severity to "emergency". This ticket has an SLA of 1 hour according to the priority level "SEV A" that Jane Doe assigned the ticket.
