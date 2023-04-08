@@ -23,8 +23,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Ticket Lifecycle Stages</h2>
 
 1 - Intake
+
 2 - Assignment and Communication
+
 3 - Working the Issue
+
 4 - Resolution
 
 <h2>Lifecycle Stages</h2>
@@ -44,7 +47,7 @@ Intake of tickets that have been created and issues ready to be resolved.
 <img src="https://i.imgur.com/zvNzOaP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Ticket #282733 has been assigned to Jane Doe and she has updated the severity to "emergency". This ticket has an SLA of 1 hour according to the priority level "SEV A" that Jane Doe assigned the ticket.
+Ticket #165648 has been assigned to Jane Doe and she has updated the severity to "emergency". This ticket has an SLA of 1 hour according to the priority level "SEV A" that Jane Doe assigned the ticket.
 </p>
 <br />
 
